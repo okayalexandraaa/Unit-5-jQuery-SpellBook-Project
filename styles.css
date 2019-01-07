@@ -1,0 +1,22 @@
+button {
+    align-self: center;
+}
+img {
+     height: 200px;
+     align-self: center;
+}
+body{ 
+     background-color: pink;
+}
+#unlocked-door{
+    display:none;
+}
+#wand-light{
+    display:none;
+}
+#oof{
+    display:none;   
+}
+
+
+    
